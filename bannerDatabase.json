@@ -22,5 +22,13 @@
   "324805355357": {
     "data": {"author": "JaimeDHG", "color": "orange", "name": "Mussolini Pez", "description": "", "item0": "musolinipez", "item1": "drossdrogado"},
     "items": [{"name": "Musolini", "code": "musolinipez", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/musolinipez.png"}, {"name": "Dross", "code": "drossdrogado", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/drossdrogado.png"}, {"name": "Zhongli Cursed", "code": "zhonglicursed", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/zhonglicursed.png"}]
+  },
+  "932409956974": {
+    "data": {"author": "Guacamayo05", "color": "#651674", "name": "Legend of the Bird", "description": "", "item0": "legendofthechb", "item1": "legendoftheguacamayo05"},
+    "items": [{"name": "Crystal Heart Beat", "code": "legendofthechb", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendofthechb.png"}, {"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}]
+  },
+  "553476345809": {
+    "data": {"author": "Shabens", "color": "green", "name": "Overwatch", "description": "A moverse ese cuerpo", "item0": "lucioiblucio"},
+    "items": [{"name": "Lucio", "code": "sow2lucio", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2lucio.png"}, {"name": "DVA", "code": "sow2dva", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2dva.png"}, {"name": "Genji", "code": "sow2genji", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2genji.png"}]
   }
 }
