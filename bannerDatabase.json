@@ -28,7 +28,7 @@
     "items": [{"name": "Crystal Heart Beat", "code": "legendofthechb", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendofthechb.png"}, {"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}]
   },
   "553476345809": {
-    "data": {"author": "Shabens", "color": "green", "name": "Overwatch", "description": "A moverse ese cuerpo", "item0": "lucioiblucio"},
+    "data": {"author": "Shabens", "color": "green", "name": "Overwatch", "description": "A moverse ese cuerpo", "item0": "sow2lucio"},
     "items": [{"name": "Lucio", "code": "sow2lucio", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2lucio.png"}, {"name": "DVA", "code": "sow2dva", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2dva.png"}, {"name": "Genji", "code": "sow2genji", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/sow2genji.png"}]
   }
 }
