@@ -24,8 +24,8 @@
     "items": [{"name": "Musolini", "code": "musolinipez", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/musolinipez.png"}, {"name": "Dross", "code": "drossdrogado", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/drossdrogado.png"}, {"name": "Zhongli Cursed", "code": "zhonglicursed", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/zhonglicursed.png"}]
   },
   "932409956974": {
-    "data": {"author": "Guacamayo05", "color": "#651674", "name": "Legend of the Bird", "description": "", "item0": "legendofthechb", "item1": "legendoftheguacamayo05"},
-    "items": [{"name": "Crystal Heart Beat", "code": "legendofthechb", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendofthechb.png"}, {"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}]
+    "data": {"author": "Guacamayo05", "color": "#651674", "name": "Legend of the Bird", "description": "", "item0": "legendoftheguacamayo05", "item1": "legendoftheguacamayo05musica"},
+    "items": [{"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}, {"name": "Crystal Heart Beat", "code": "legendoftheguacamayo05musica", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05musica.png"}]
   },
   "553476345809": {
     "data": {"author": "Shabens", "color": "green", "name": "Overwatch", "description": "A moverse ese cuerpo", "item0": "sow2lucio"},
