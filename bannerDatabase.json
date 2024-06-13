@@ -25,7 +25,7 @@
   },
   "932409956974": {
     "data": {"author": "Guacamayo05", "color": "#651674", "name": "Legend of the Bird", "description": "", "item0": "legendoftheguacamayo05", "item1": "legendoftheguacamayo05musica"},
-    "items": [{"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}, {"name": "Crystal Heart Beat", "code": "legendoftheguacamayo05musica", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05musica.png"}]
+    "items": [{"name": "Guacamayo05", "code": "legendoftheguacamayo05", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05.png"}, {"name": "Guacamayo05 Música", "code": "legendoftheguacamayo05musica", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/legendoftheguacamayo05musica.png"}]
   },
   "553476345809": {
     "data": {"author": "Shabens", "color": "green", "name": "Overwatch", "description": "A moverse ese cuerpo", "item0": "sow2lucio"},
