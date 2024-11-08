@@ -9,11 +9,11 @@
   },
   "123098548538": {
     "data": {"author": "Banner de web", "color": "#bd6932", "name": "Armas", "description": "Diversiones en este mundo", "item0": "reflejotinieblas"},
-    "items": [{"name": "Reflejo de tinieblas", "code": "reflejotinieblas", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/reflejotinieblas.png"}, {"name": "Bazuca", "code": "armabazuca", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/armabazuca.png"}]
+    "items": [{"name": "Reflejo de las tinieblas", "code": "reflejotinieblas", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/reflejotinieblas.png"}, {"name": "Bazuca", "code": "armabazuca", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/armabazuca.png"}]
   },
   "283401204424": {
     "data": {"author": "Dani-Ba", "color": "#6d1d1d", "name": "Dani-Ba", "description": "Este es mi Banner, aquí podras encontrar varias de mis creaciones : )", "item0": "daniba"},
-    "items": [{"name": "Dani-Ba", "code": "daniba", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/daniba.png"}, {"name": "Shogun Raiden", "code": "dbshogun", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dbshogun.png", "skins": [{"name": "Dios Shogun", "extendedCode": "god", "price": 5, "priceValue": "rwgem", "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dbshogun-god.png"}]}, {"name": "Fragmento de estrella", "code": "starfragment", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/starfragment.png"}, {"name": "Pájaro retro", "code": "retrobird", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/retrobird.png"}, {"name": "Diamante", "code": "danibadiamond", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/danibadiamond.png"}, {"name": "Barco", "code": "danibarco", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/danibarco.png"}]
+    "items": [{"name": "Dani-Ba", "code": "daniba", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/daniba.png"}, {"name": "Shogun Raiden", "code": "dbshogun", "stars": 5, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dbshogun.png", "skins": [{"name": "Diosa Shogun", "extendedCode": "god", "price": 5, "priceValue": "rwgem", "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dbshogun-god.png"}]}, {"name": "Fragmento de estrella", "code": "starfragment", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/starfragment.png"}, {"name": "Pájaro retro", "code": "retrobird", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/retrobird.png"}, {"name": "Diamante", "code": "danibadiamond", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/danibadiamond.png"}, {"name": "Barco", "code": "danibarco", "stars": 4, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/danibarco.png"}]
   },
   "589689456324": {
     "data": {"author": "Dani-Ba", "color": "red", "name": "Políticos", "description": "Un Banner curiosón, con políticos y partidos políticos.", "item0": "dpoliticosespana", "item1": "dpoliticosmarianorajoy", "item2": "dpoliticospedrosanchez"},
@@ -21,7 +21,7 @@
   },
   "135463763096": {
     "data": {"author": "Dani-Ba", "color": "#c8aa6e", "name": "League of Legends", "description": "Un Banner curiosón, con políticos y partidos políticos.", "item0": "dlollux"},
-    "items": [{"name": "Lux", "code": "dlollux", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlollux.png"}, {"name": "Caitlyn", "code": "dlolcaitlyn", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlolcaitlyn.png"}]
+    "items": [{"name": "Lux", "code": "dlollux", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlollux.png"}, {"name": "Caitlyn", "code": "dlolcaitlyn", "stars": 7, "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlolcaitlyn.png", "skins": [{"name": "Academia de combate", "extendedCode": "academycombat", "price": 6, "priceValue": "rwgem", "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlolcaitlyn-academycombat.png"}, {"name": "Hacedora de Mitos", "extendedCode": "mythmaker", "price": 666, "priceValue": "gem", "img": "https://dani-ba.github.io/Dani-Ba-Gachaverse/items/dlolcaitlyn-mythmaker.png"}]}]
   },
   "324805355357": {
     "data": {"author": "JaimeDHG", "color": "orange", "name": "Mussolini Pez", "description": "", "item0": "musolinipez", "item1": "drossdrogado"},
